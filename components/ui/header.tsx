@@ -11,6 +11,10 @@ export default function Header() {
             <Logo />
           </div>
 
+          <div className="flex flex-1 items-center pl-32 text-3xl font-extrabold">
+            Simple-Meet
+          </div>
+
           {/* Desktop sign in links */}
           <ul className="flex flex-1 items-center justify-end gap-3">
             <li>

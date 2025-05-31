@@ -70,8 +70,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The website builder you're <br className="max-lg:hidden" />
-              looking for
+              Easy Meeting Scheduler <br className="max-lg:hidden" />
+              you're looking for
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -79,8 +79,7 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Simple is a modern website builder powered by AI that changes
-                how companies create user interfaces together.
+                Simple-Meet is a modern meeting scheduler powered by AI that helps in saving time & efforts.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1]">
                 <div
